@@ -1,0 +1,5 @@
+1) test_pop50_gen50_Fitness.SumLengths_trial_1
+    - returns -1* fitness for bad samples
+    - Does not have standardized constraints on mutations (if length multiplied by factor, then width/height divided by same factor).
+    This leads to large changes in dimensions and tends to create more "plates and needles"
+    - Population stagnates after Gen 6. Possibly due to all offsprings being worse than current population. (offspring never get selected)
