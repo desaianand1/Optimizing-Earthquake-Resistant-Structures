@@ -10,7 +10,7 @@ intensities of earthquakes. This solution had a fitness of **4886.76** and could
 real world.
 
 # Sample Structure
-<img src="/solution%20results/best.PNG" width="400" height="400">
+<img src="/solution%20results/best.PNG" width="300" height="300">
 
 # Installation
 
