@@ -1,8 +1,7 @@
 # Optimizing Earthquake-Resistant Structures
 
-**This program aims to evolve stable, earthquake resistant towers using a simulated shake-table test.**
-
-An evolutionary strategy approach is implemented with standard gaussian random variables used to mutate offspring,
+This program aims to evolve stable, earthquake resistant towers using a simulated shake-table test.
+</br>An evolutionary strategy approach is implemented with standard gaussian random variables used to mutate offspring,
 following which elitist sorting is used to select the most fit individuals from the population.
 
 The final, most stable structure was shown to be stable in multiple axes of shaking and could withstand varying
