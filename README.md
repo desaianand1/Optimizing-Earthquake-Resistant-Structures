@@ -48,5 +48,5 @@ real world.
     *	If several trials were run, you may have to edit the `trial` variable to whatever trial’s plot you want to generate.
 
 # Credits
-Anand Desai, Eric Tu
+Anand Desai, [Eric Tu](https://github.com/iLoveDisco)
 
