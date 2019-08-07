@@ -47,4 +47,6 @@ real world.
 4.	To generate the plot for a trial, run [plot.py](/utility/plot.py)
     *	If several trials were run, you may have to edit the `trial` variable to whatever trial’s plot you want to generate.
 
+# Credits
+Anand Desai, Eric Tu
 
