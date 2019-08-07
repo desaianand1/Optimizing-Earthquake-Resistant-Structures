@@ -38,12 +38,12 @@ real world.
 
 1.	To run a new experiment, edit any parameters in [settings.py](/settings.py)
     *	Change the `EXP_NAME` variable in some way to prevent overwriting previously written csv files or plots when running a trial. All CSV files and plots generated for this experiment will follow this naming convention. 
-    *	Changing the `EXP_NAME` variable will affect which plots and candidates are visualized when running [visualize_solutions.py](/utility/visualize_solutions.py) or [plot.py](/utility/plot.py)
+    *	Changing the `EXP_NAME` variable will affect which plots and candidates are visualized when running [visualize_solution.py](/utility/visualize_solution.py) or [plot.py](/utility/plot.py)
     *	Run [main.py](main.py) to run the experiment.
 2.	CSV files are generated when the new trial ends. Cancelling a running trial prematurely will not save any information to the CSV file.
     *	CSV files are saved in the `/data/` folder
     *	Plots are saved as PNG images in the `/plot/` folder
-3.	To see the best candidate for a trial, run [visualize_solutions.py](/utility/visualize_solutions.py)
+3.	To see the best candidate for a trial, run [visualize_solution.py](/utility/visualize_solution.py)
     *	If several trials were run, you may have to edit the `trial` variable to whatever trial’s candidate you want to visualize.
 4.	To generate the plot for a trial, run [plot.py](/utility/plot.py)
     *	If several trials were run, you may have to edit the `trial` variable to whatever trial’s plot you want to generate.
