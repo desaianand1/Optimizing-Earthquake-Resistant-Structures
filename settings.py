@@ -3,7 +3,6 @@ from enum import Enum
 # Use this file to adjust simulation settings.
 
 # PyChrono Datapath. Past yours here
-# DATAPATH = "C:\\Users\\Eric\\Anaconda3\\Library\\data\\"
 DATAPATH = "C:\\ProgramData\\Anaconda3\\Library\\data\\"
 
 # Generation loop settings
